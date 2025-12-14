@@ -50,4 +50,4 @@ This project is a Python-based voice assistant that listens to voice commands an
 ## About This Project
 
 This project is created for learning and demonstration purposes.  
-It helps understand speech recognition, voice interaction, and automation using Python.
+It helps understand speech recognition, voice interaction using Python.
