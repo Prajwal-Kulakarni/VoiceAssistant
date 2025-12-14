@@ -47,6 +47,11 @@ This project is a Python-based voice assistant that listens to voice commands an
 
 ---
 
+## Demo video link
+https://drive.google.com/drive/folders/1mOj7QzojlA1oHibMv6cBERHsjpiSR5YV?usp=sharing
+
+---
+
 ## About This Project
 
 This project is created for learning and demonstration purposes.  
